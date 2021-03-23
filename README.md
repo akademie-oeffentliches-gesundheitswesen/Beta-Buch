@@ -1,4 +1,9 @@
 
+# Archivierung
+
+Dieses Repository wurde archiviert. Der Inhalt wird in einem anderen Repository weitergeführt.
+
+
 # Über das Lehrbuch
 
 Das vorliegende Buch ist ein kostenfrei zugängliches Hand- und Lehrbuch
